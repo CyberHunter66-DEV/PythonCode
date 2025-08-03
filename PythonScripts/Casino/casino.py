@@ -8,7 +8,7 @@ alreadytookaloan = False
 # Boolean value to see if play took a loan
 loanvalue = 0
 # integer value as the loan
-# the loan interest multiplier is in line 514 and how much the player needs to have before playing back the loan on line 525
+# the loan interest multiplier is in line 514 and how much the player needs to have before paying back the loan on line 525
 
 
 def slots(amountofmoney):
